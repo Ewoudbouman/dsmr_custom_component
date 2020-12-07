@@ -1,0 +1,14 @@
+{
+  "domain": "custom_dsmr",
+  "name": "custom dsmr",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/custom_dsmr",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@ewoudbouman"
+  ]
+}
